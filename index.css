@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  color: black;
+  font-weight: normal;
+  border: none;
+  font-family: "Helvetica", san-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  padding-bottom: 15px;
+}
